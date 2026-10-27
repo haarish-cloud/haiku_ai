@@ -1,0 +1,12 @@
+DEGREE
+Student Name: Rohan Gupta
+Father Name: Vinod Gupta
+Date of Birth: 15/08/2002
+Enrollment No: HRZ2022CSE001
+Institute: Horizon Private Polytechnic
+Programme: B.Tech Artificial Intelligence
+Year of Admission: 2022
+Year of Passing: 2023
+Duration: 1 years
+CGPA: 11.5
+Date: 26/10/2023
